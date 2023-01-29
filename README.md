@@ -7,7 +7,7 @@ Fall 2022
     - [Using Genetic Algorithms for Subset Sum Problem](https://github.com/hgoli02/Artificial-Intelligence-CE417/blob/master/1.%20Local%20Search/genetic.py)
     - [Using Simulated Annealing for Subset Sum Problem](https://github.com/hgoli02/Artificial-Intelligence-CE417/blob/master/1.%20Local%20Search/simulated_annealing.py)
 2. A* Search algorithm:
-    - [Using A* Search algorithm for transforming graphs by swapping their nodes]https://github.com/hgoli02/Artificial-Intelligence-CE417/blob/master/2.%20A_star/A_start.py)]
+    - [Using A* Search algorithm for transforming graphs by swapping their nodes](https://github.com/hgoli02/Artificial-Intelligence-CE417/blob/master/2.%20A_star/A_start.py)
     
 3. Continuous_Optimization:
     - [Using different optimization techniques (GD, SGD, SGD with momentum)](https://github.com/hgoli02/Artificial-Intelligence-CE417/blob/master/3.%20Continuous_Optimization/Continuous_Optimization.ipynb)
