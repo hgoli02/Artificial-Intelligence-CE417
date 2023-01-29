@@ -1,5 +1,5 @@
 # Artificial-Intelligence-CE417
-Artificial Intelligence Course Projects 
+Artificial Intelligence Course Projects, More information about the course is available [here](https://sut-ai.github.io/pages/problem_sets/)
 
 Fall 2022
 
