@@ -21,7 +21,7 @@ Fall 2022
 6. BayesNet and HMMs:
     - [My Implemenation of D Seperation Algorithm]([https://github.com/hgoli02/Artificial-Intelligence-CE417/tree/master/5.%20Adversarial%20Search](https://github.com/hgoli02/Artificial-Intelligence-CE417/blob/master/6.%20Bayes%20Net/D_Seperation.py)
     - [My Implementaion of Forward Algorithm in Hidden Markov Models](https://github.com/hgoli02/Artificial-Intelligence-CE417/blob/master/6.%20Bayes%20Net/HMM_Forward_Algorithm.py)
-    - [Inference in Bayes Nets and Different Sampling Methods (Gibbs, Likelihood, Prior, Rejection))](https://github.com/hgoli02/Artificial-Intelligence-CE417/blob/master/6.%20Bayes%20Net/inference.py)
+    - [Inference in Bayes Nets and Different Sampling Methods (Gibbs, Likelihood, Prior, Rejection)](https://github.com/hgoli02/Artificial-Intelligence-CE417/blob/master/6.%20Bayes%20Net/inference.py)
 
 7. Regression and Decision Trees
     - [Implementing Linear Regression and Solving using both Direct Method and GD](https://github.com/hgoli02/Artificial-Intelligence-CE417/blob/master/7.%20Regression%20and%20Decision%20Trees/Regression.ipynb)
