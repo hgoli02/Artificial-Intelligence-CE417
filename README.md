@@ -26,3 +26,10 @@ Fall 2022
 7. Regression and Decision Trees
     - [Implementing Linear Regression and Solving using both Direct Method and GD](https://github.com/hgoli02/Artificial-Intelligence-CE417/blob/master/7.%20Regression%20and%20Decision%20Trees/Regression.ipynb)
     - [Implementing Decision Trees from scratch](https://github.com/hgoli02/Artificial-Intelligence-CE417/blob/master/7.%20Regression%20and%20Decision%20Trees/Decision%20Tree.ipynb)
+    
+8. Neural Networks
+    - [Implementing a Denoising Autoencoder and a Variational Autoencoder for rotated images in MNIST dataset](https://github.com/hgoli02/Artificial-Intelligence-CE417/blob/master/8.%20Neural%20Networks/AutoEncoder.ipynb)
+    - [Classifying sign language images (ASL dataset) using CNN characterchures](https://github.com/hgoli02/Artificial-Intelligence-CE417/blob/master/8.%20Neural%20Networks/ASL_Classification.ipynb)
+
+9. reinforcement learning :
+    - [Q learning for Tic Tac Toe](https://github.com/hgoli02/Artificial-Intelligence-CE417/tree/master/9.%20Reinforcement%20Learning)
